@@ -1,16 +1,16 @@
-# :fire: Desafio-de-repositorio-git
-- Desafio de Projeto Git/Github
+# :fire: Challenge-de-repository-git
+- Challenge de Project Git/Github
 
 ```
--- Comandos Git
+-- Command Git
 
 - Git add .
-- Git commit -m "Comentarios"
+- Git commit -m "comments"
 - Git status
 - Git push origin main
 - Git pull
 
 ```
 
-## :link: Links Utéis
-- [Sintaxe Basica Github](https://github.com/samuelikz)
+## :link: Links Useful
+- [Syntax Basic Markdown](https://github.com/samuelikz)
