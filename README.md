@@ -1,5 +1,5 @@
 # :fire: Challenge-de-repository-git
-- Challenge de Project Git/Github
+- Project Challenge Git/Github
 
 ```
 -- Command Git
