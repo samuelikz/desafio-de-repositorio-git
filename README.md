@@ -8,6 +8,7 @@
 - Git commit -m "Comentarios"
 - Git status
 - Git push origin main
+- Git pull
 
 ```
 
